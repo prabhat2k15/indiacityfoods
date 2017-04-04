@@ -1,0 +1,10 @@
+$mysql_host = "mysql2.000webhost.com";
+$mysql_database = "a5387293_cart";
+$mysql_user = "a5387293_cf";
+$mysql_password = "city554986";
+[ Back to
+
+$mysql_host = "mysql2.000webhost.com";
+$mysql_database = "a3786145_cfdb";
+$mysql_user = "a3786145_cf";
+$mysql_password = "cityfoods432";
